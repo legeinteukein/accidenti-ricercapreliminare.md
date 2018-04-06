@@ -1,4 +1,4 @@
-# ricercapreliminare
+# Ricerca preliminare
 
 analisi di tre casi studio (The flow towards Europe, Immaterials: Light painting WiFi, Monument)
 
@@ -7,11 +7,10 @@ analisi di tre casi studio (The flow towards Europe, Immaterials: Light painting
 
 
 > #### info 
->[Lucify](https://www.lucify.com)<br>
->[The flow towards Europe](https://www.lucify.com/the-flow-towards-europe/)<br>
->2015<br>
+>[nobuhiro nakanishi](http://nobuhironakanishi.com/)<br>
+>2007<br>
 
-![The flow](https://dublin.sciencegallery.com/trauma/assets/img/exhibits/the-flow-towards-europe.jpg)
+![nakanishi](https://www.kashyahildebrand.org/zurich/images/nakanishi/large/nakanishi013_layer_drawing_28.jpg)
 
 > #### link <br>
 > [sito ufficiale](https://www.lucify.com/the-flow-towards-europe/) <br>
