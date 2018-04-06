@@ -10,7 +10,7 @@ analisi di tre casi studio (The flow towards Europe, Immaterials: Light painting
 >[nobuhiro nakanishi](http://nobuhironakanishi.com/)<br>
 >2007<br>
 
-![nakanishi](https://www.kashyahildebrand.org/zurich/images/nakanishi/large/nakanishi013_layer_drawing_28.jpg)
+![nakanishi](http://imperfect.it/wp-content/uploads/2013/12/nobuhori-nakanishi-layers.jpg)
 
 > #### link <br>
 > [sito ufficiale](https://www.lucify.com/the-flow-towards-europe/) <br>
