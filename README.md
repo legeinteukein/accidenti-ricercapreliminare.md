@@ -3,7 +3,10 @@
 analisi di tre casi studio (The flow towards Europe, Immaterials: Light painting WiFi, Monument)
 
 
-## The flow towards Europe, 2015, Lucify
+## Il mondo è tutto ciò che accade. (proposizione 1)
+## Il mondo è la totalità dei fatti, non delle cose. (p. 1.1)
+                                                                                      Ludwig Wittgenstein
+
 
 
 > #### info 
