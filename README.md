@@ -2,8 +2,8 @@
 
 
 ### Il mondo è tutto ciò che accade. (proposizione 1) <br> Il mondo è la totalità dei fatti, non delle cose. (p. 1.1)                   
-                                      Ludwig Wittgenstein
-
+                                
+Ludwig Wittgenstein
 
 ![nakanishi](http://imperfect.it/wp-content/uploads/2013/12/nobuhori-nakanishi-layers.jpg)
 
