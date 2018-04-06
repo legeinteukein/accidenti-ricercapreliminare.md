@@ -47,7 +47,7 @@ La voce a te dovuta, Pedro Salinas<br>
 
 
 ### Natura dell’attualità 
-Le passe ne sert qu'a connaitre l'actualité. Mais l'actualité m'echappe. Qu'est-ce que c'est donc que l'actualite?<br>
+Le passe ne sert qu'a connaitre l'actualité. Mais l'actualité m'echappe. Qu'est-ce que c'est donc que l'actualite?
 
 pag 25, george Kubler la forma del tempo<br>
 <br>
@@ -60,6 +60,6 @@ Parlando in generale, sentire è una percezione di movimento. Se una persona tie
 Paura di vivere, Alexander Lowen<br><br>
 
 
-### When everything is connected to everything else, for better or for worse, everything matters.
+### When everything is connected to everything else, <br> for better or for worse, <br> everything matters.
 Bruce Mau, Massive Change
 
