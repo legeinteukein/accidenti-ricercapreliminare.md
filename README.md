@@ -49,7 +49,7 @@ La voce a te dovuta, Pedro Salinas<br>
 ### Natura dell’attualità 
 Le passe ne sert qu'a connaitre l'actualité. <br> Mais l'actualité m'echappe.<br> Qu'est-ce que c'est donc que l'actualite?
 
-pag 25, george Kubler la forma del tempo<br>
+pag 25, George Kubler la forma del tempo<br>
 <br>
 
 
