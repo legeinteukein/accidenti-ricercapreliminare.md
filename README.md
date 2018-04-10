@@ -50,6 +50,9 @@ La voce a te dovuta, Pedro Salinas<br>
 [Willamette River Historical Stream Channels](http://www.oregongeology.org/pubs/ll/p-poster-willamette.htm)<br>
 2006<br>
 <br>
+[Temperature Activated Thermochromic Pigment](https://www.amazon.com/Temperature-Activated-Thermochromic-Pigment-Changing/dp/B01N0N9B1V)
+<br>
+<br>
 
 ### Le otto montagne
 – “Guarda quel torrente, lo vedi? “– disse mio padre. <br>
@@ -57,6 +60,8 @@ La voce a te dovuta, Pedro Salinas<br>
 Se qui dove siamo noi è il presente, da quale parte pensi che sia il futuro?”<br>
 Paolo Cognetti<br>
 <br>
+
+
 
 
 ### Natura dell’attualità 
