@@ -51,6 +51,13 @@ La voce a te dovuta, Pedro Salinas<br>
 2006<br>
 <br>
 
+### Le otto montagne
+– “Guarda quel torrente, lo vedi? “– disse mio padre. <br>
+– “Facciamo finta che l’acqua sia il tempo che scorre. <br>
+Se qui dove siamo noi è il presente, da quale parte pensi che sia il futuro?”<br>
+Paolo Cognetti<br>
+<br>
+
 
 ### Natura dell’attualità 
 Le passe ne sert qu'a connaitre l'actualité. <br> Mais l'actualité m'echappe.<br> Qu'est-ce que c'est donc que l'actualite?
@@ -68,7 +75,16 @@ Parlando in generale, sentire è una percezione di movimento. Se una persona tie
 
 Paura di vivere, Alexander Lowen<br><br>
 
+### I prefissi verbali del tedesco
+Ci sono lingue moderne, come il tedesco e l’olandese, che presentano prefissi verbali
+che consentono di modificare la semantica e, in alcuni casi, anche la sintassi del verbo. i prefissi separabili restituiscono “il senso proprio, materiale della particella”, mentre gli inseparabili creano un composto con “un significato nuovo, improprio, metaforico”<br>
+Sabrina Bertollo <br>
+<br>
+
 
 ### When everything is connected to everything else, <br> for better or for worse, <br> everything matters.
 Bruce Mau, Massive Change
+
+![linea infinita](http://www.exibart.com/foto/52453.jpg)
+[unendurable line](http://www.thisiscolossal.com/2017/09/unendurable-line-short-film/)
 
