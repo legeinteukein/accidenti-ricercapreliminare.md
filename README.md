@@ -76,8 +76,7 @@ Parlando in generale, sentire è una percezione di movimento. Se una persona tie
 Paura di vivere, Alexander Lowen<br><br>
 
 ### I prefissi verbali del tedesco
-Ci sono lingue moderne, come il tedesco e l’olandese, che presentano prefissi verbali
-che consentono di modificare la semantica e, in alcuni casi, anche la sintassi del verbo. i prefissi separabili restituiscono “il senso proprio, materiale della particella”, mentre gli inseparabili creano un composto con “un significato nuovo, improprio, metaforico”<br>
+Ci sono lingue moderne, come il tedesco e l’olandese, che presentano prefissi verbali che consentono di modificare la semantica e, in alcuni casi, anche la sintassi del verbo. i prefissi separabili restituiscono “il senso proprio, materiale della particella”, mentre gli inseparabili creano un composto con “un significato nuovo, improprio, metaforico”<br>
 Sabrina Bertollo <br>
 <br>
 
@@ -85,6 +84,6 @@ Sabrina Bertollo <br>
 ### When everything is connected to everything else, <br> for better or for worse, <br> everything matters.
 Bruce Mau, Massive Change
 
-![linea infinita](http://www.exibart.com/foto/52453.jpg)
+![linea infinita](http://www.exibart.com/foto/52453.jpg)<br>
 [unendurable line](http://www.thisiscolossal.com/2017/09/unendurable-line-short-film/)
 
