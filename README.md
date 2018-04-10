@@ -45,6 +45,12 @@ da origini, da albe.<br>*
 La voce a te dovuta, Pedro Salinas<br>
 <br>
 
+![nakanishi](http://www.thisiscolossal.com/wp-content/uploads/2015/11/river-datavis.jpg)
+
+[Willamette River Historical Stream Channels](http://www.oregongeology.org/pubs/ll/p-poster-willamette.htm)<br>
+2006<br>
+<br>
+
 
 ### Natura dell’attualità 
 Le passe ne sert qu'a connaitre l'actualité. <br> Mais l'actualité m'echappe.<br> Qu'est-ce que c'est donc que l'actualite?
@@ -52,6 +58,9 @@ Le passe ne sert qu'a connaitre l'actualité. <br> Mais l'actualité m'echappe.<
 pag 25, George Kubler la forma del tempo<br>
 <br>
 
+![nakanishi](https://media.adelphi.it/spool/888e9530b691cee4bae2800b9347ea96_w600_h_mw_mh_cs_cx_cy.jpg)
+<br>
+<br>
 
 ### Il carattere nevrotico
 
