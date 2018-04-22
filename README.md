@@ -89,6 +89,13 @@ Sabrina Bertollo <br>
 ### When everything is connected to everything else, <br> for better or for worse, <br> everything matters.
 Bruce Mau, Massive Change
 
+### Le ali del tempo
+La nostra capacità di riconoscere qualsiasi oggetto fallisce dopo se si dispone di meno di mezzo secondo. Per gli oggetti geometrici, se si ha a disposizione meno d'un cinquantesimo di secondo. Ma la percezione d'un sorriso rimarrà in noi dopo che è balenato per non più d'un millesimo di secondo, tanto è sensibile la nostra mente alla vista del volto umano.
+<br>
+Richard Bach <br>
+<br>
+
+
 ![linea infinita](http://www.exibart.com/foto/52453.jpg)<br>
 [unendurable line](http://www.thisiscolossal.com/2017/09/unendurable-line-short-film/)
 
