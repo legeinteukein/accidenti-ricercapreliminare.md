@@ -10,3 +10,4 @@ Il verbo rifulgere, dal lat. refulgēre, der. di fulgēre ‘splendere’, col p
 
 Il verbo declinato al tempo indicativo presente **Rifulge** è stato scelto per determinare un'azione svolta nel momento, istantanea.
 La terza persona sottolinea l'attenzione data al soggetto dell'azione che interagisce con il soggetto in prima persona.
+**emettere scintille, che include l'idea di un movimento di proiezione**
