@@ -13,7 +13,7 @@ La terza persona sottolinea l'attenzione data al soggetto dell'azione che intera
 
 #### parole chiave
 oltre a quelle analizzate per il titolo, le parole che introducono il progetto sono:
-'''
+```
 tempo
 fatti
 cose
@@ -31,7 +31,7 @@ azioni
 durata
 effimero
 risonanze
-'''
+```
 
 
 
