@@ -32,7 +32,35 @@ azioni
 durata
 effimero
 risonanze
+intreccio
 ```
 
+## CONCEPT
+Noi non siamo particelle isolate, ma particelle situate momentaneamente in un luogo e in un tempo precisi, determinate dalle nostre esperienze passate e consapevoli che le nostre azioni si propagano nel futuro. <br>
+*Nessuno si conosce del resto fino a quando è soltanto se stesso, e non, al medesimo tempo, anche un altro. Eugenio Borgna, Responsabilità e speranza.* Noi ci evolviamo ogni volta che ci mettiamo in relazione con il resto del mondo. Infatti come scrive Wittenstein *il mondo è la totalità dei fatti non delle cose*, per cui quando esprimiamo noi stessi attraverso il nostro corpo, modifichiamo noi stessi e chi ci circonda, in un susseguirsi di fatti che cambiano le cose, un prima e un dopo, detto tempo, che si sviluppa e scorre in direzioni determinate. 
 
+.....
+Non possiamo studiare il tempo perchè ne siamo immersi, e proprio per questo non possiamo analizzare noi stessi durante le nostre azioni perchè siamo all'interno del nostro sistema. 
+
+Solo riflessi nelle reazioni degli altri, nel dialogo senza incomprensioni, possiamo comprendere noi stessi.
+Il contatto con il mondo quindi ci rendere visibili, ma perchè ciò avvenga bisogna prestare attenzione.
+il progetto si propone come obiettivo quello mettere in luce le modalità con cui ci relazioniamo con il mondo, rendendo visibile i modi con cui siamo abituati a vivere gli altri e di comportarci con loro, modi che molto spesso passano inosservati. 
+L'attenzione, è la capacità che permette di rispondere per qualcuno. 
+
+
+
+possiamo invece catturare 
+vediamo noi stessi solo riflessi nelle reazioni degli altri, da qui possono nascere delle incomprensioni
+
+
+## REFERENZE
+## DATI
+## ELABORAZIONE
+## TRASFORMAZIONE
+## PROPOSTA DI OUTPUT
+## AUTO-CLOSE READING
+#### WHAT'S?
+#### HOW IT WORKS?
+#### HOW DOES IT MEAN? 
+#### WHAT IF...
 
