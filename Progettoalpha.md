@@ -13,7 +13,7 @@ Il verbo declinato al tempo indicativo presente **Rifulge** è stato scelto per 
 La terza persona sottolinea l'attenzione data al soggetto dell'azione che interagisce con il soggetto in prima persona.
 
 ## PAROLE CHIAVE
-oltre a quelle analizzate per il titolo, le parole che introducono il progetto sono:
+Oltre a quelle analizzate per il titolo, le parole che introducono il progetto sono:
 
 <sub>tempo / 
 **fatti** / 
@@ -87,13 +87,13 @@ OLED Display /
 Color TFT LCD display
 
 ## ELABORAZIONE e TRASFORMAZIONE
-L'elaborazione dei dati deve avvenire in tempo reale. Le grafiche generative sono create a partire da un dizionario di simboli che permettono una 
+L'elaborazione dei dati deve avvenire in tempo reale. Le grafiche generative sono create a partire da un dizionario di simboli che permettono una comprensione immediata del loro significato. Alcuni esempi sono illustrati nell'immagine sotto riportata.
 
 
 ## PROPOSTA DI OUTPUT
+La collana è l'output fisico del progetto. Le grafiche sono la visualizzazione che permette all'uomo di comprendere i dati rilevati dai sensori.
+La collana deve essere indossabile facilmente, deve essere leggera ma abbastanza grande per permettere una corretta visualizzazione delle grafiche generative. 
 
-il senso è mi vedo attraverso gli altri
-il mio corpo è reso visibile dai miei movimenti proiettati nel corpo dell'altro
 
 ## AUTO-CLOSE READING
 #### WHAT'S?
