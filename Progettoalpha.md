@@ -71,7 +71,7 @@ of jewellery?</sub>
 
 ## DATI
 I dati sono acquisiti attraverso dei sensori. I sensori sono collocati su una collana indossata dagli interlocutori (guardare figura).
-le tipologie coinvolte: 
+le tipologie coinvolte: <br>
 **Sensori**
 Giroscopio / 
 Accelerometro / 
@@ -80,7 +80,7 @@ Sensore piezoelettrico.
 
 Questi componenti permettono di avere una configurazione completa dei movimenti e delle interazioni che avvengono durante la comunicazione verbale e non. Le collane degli interlocutori sono collegate tra loro e si passano informazioni attraverso la rete wifi. In questo modo i movimenti del soggetto sono "traccati", elaborati, generati e resi visibili sulla collana (o proiettati sul corpo) dell'interlocutore/i. 
 
-La visualizzazione può avvenire tramite:
+La visualizzazione può avvenire tramite:<br>
 **Proiezione** 
 Pico proiettore / 
 OLED Display / 
