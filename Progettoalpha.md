@@ -57,8 +57,19 @@ L'attenzione, è la capacità che permette di rispondere per qualcuno, è render
 <sub>"**NECLUMI is the first ever projection-based interactive necklace**" ...a probable future
 of jewellery?</sub>
 
+[![Sharing faces](http://www.creativeapplications.net/wp-content/uploads/2014/08/sharingfaces2.jpg)](http://www.creativeapplications.net/openframeworks/sharing-faces-seeing-yourself-reflected-in-the-image-of-others/)
+<sub>"**Created by Kyle McDonald, “Sharing Faces”**" ... Thousands of people visited the work, and saw themselves reflected in the face of another person.</sub>
 
 ## DATI
+#### Sensori
+Giroscopio / 
+Accelerometro / 
+Sensore prossimità /
+#### Proiezione
+Pico proiettore / 
+OLED Display / 
+Color TFT LCD display
+
 ## ELABORAZIONE
 ## TRASFORMAZIONE
 ## PROPOSTA DI OUTPUT
