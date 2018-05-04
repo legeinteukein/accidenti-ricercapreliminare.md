@@ -77,6 +77,7 @@ Giroscopio /
 Accelerometro / 
 Sensore prossimità /
 Sensore piezoelettrico.
+![image](immagini-/fronteretroill.jpg)
 
 Questi componenti permettono di avere una configurazione completa dei movimenti e delle interazioni che avvengono durante la comunicazione verbale e non. Le collane degli interlocutori sono collegate tra loro e si passano informazioni attraverso la rete wifi. In questo modo i movimenti del soggetto sono "traccati", elaborati, generati e resi visibili sulla collana (o proiettati sul corpo) dell'interlocutore/i. 
 
