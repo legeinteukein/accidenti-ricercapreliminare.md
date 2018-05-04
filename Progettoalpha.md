@@ -14,7 +14,7 @@ La terza persona sottolinea l'attenzione data al soggetto dell'azione che intera
 ## PAROLE CHIAVE
 oltre a quelle analizzate per il titolo, le parole che introducono il progetto sono:
 ```
-tempo
+<sub>tempo</sub>
 *fatti*
 cose
 *indeterminazione*
@@ -32,6 +32,7 @@ azioni
 durata
 effimero
 risonanze
+*fenomeno*
 intreccio
 ```
 
@@ -48,7 +49,13 @@ L'attenzione, è la capacità che permette di rispondere per qualcuno, è render
 
 
 
+
 ## REFERENZE
+[![Mausi Segun, Human Rights Watch](http://i.imgur.com/smIb0xG.png)](https://vimeo.com/110207736 "Are some rights more important than others?")
+
+<sub>"**NECLUMI is the first ever projection-based interactive necklace**" (Elaine Pearson and Mausi Segun for Human Rights Watch)</sub>
+
+
 ## DATI
 ## ELABORAZIONE
 ## TRASFORMAZIONE
