@@ -51,9 +51,10 @@ L'attenzione, è la capacità che permette di rispondere per qualcuno, è render
 
 
 ## REFERENZE
-[![Mausi Segun, Human Rights Watch](http://i.imgur.com/smIb0xG.png)](https://vimeo.com/110207736 "Are some rights more important than others?")
+[![NECLUMI](http://pangenerator.com/wp-content/uploads/2017/05/movi2-1.jpg)](https://vimeo.com/110207736)
 
-<sub>"**NECLUMI is the first ever projection-based interactive necklace**" (Elaine Pearson and Mausi Segun for Human Rights Watch)</sub>
+<sub>"**NECLUMI is the first ever projection-based interactive necklace**" (a probable future
+of jewellery ?)</sub>
 
 
 ## DATI
