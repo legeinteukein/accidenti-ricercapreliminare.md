@@ -1,6 +1,6 @@
 # RIFULGE
-Il titolo è stato scelto dopo un'attenta analisi dei seguenti termini: 
-<sub>brillare, proiettile, decadimenti, impulso, volgere, sfolgorare, brio, coinvolgere, ray, glint, then, sfavillare e </sub> **rifulgere**.<br>
+Il titolo è stato scelto dopo un'attenta analisi dei seguenti termini: <br>
+brillare, proiettile, decadimenti, impulso, volgere, sfolgorare, brio, coinvolgere, ray, glint, then, sfavillare e  **rifulgere**.<br>
 
 Il verbo rifulgere, dal lat. refulgēre, der. di fulgēre ‘splendere’, col pref. *re-* prima del 1321.<br>
 *emettere scintille, che include l'idea di un movimento di proiezione*<br>
@@ -16,24 +16,24 @@ La terza persona sottolinea l'attenzione data al soggetto dell'azione che intera
 oltre a quelle analizzate per il titolo, le parole che introducono il progetto sono:
 
 <sub>tempo / 
-</sub>**fatti**<sub> / 
+**fatti** / 
 cose / 
-</sub>**indeterminazione**<sub> / 
+**indeterminazione** / 
 particelle / 
 corpi / 
 emozioni / 
 tocco / 
 scontro / 
-</sub>**proiezione**<sub> / 
+**proiezione** / 
 conseguenze / 
 sguardi / 
 silenzi / 
 azioni / 
-</sub>**comportamento**<sub> / 
+**comportamento** / 
 durata / 
 effimero / 
 risonanze / 
-</sub>**fenomeno**<sub> / 
+**fenomeno** / 
 intreccio
 </sub>
 
