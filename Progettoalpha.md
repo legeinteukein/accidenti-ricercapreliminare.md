@@ -55,12 +55,15 @@ L'attenzione, è la capacità che permette di rispondere per qualcuno, è render
 [![NECLUMI](http://pangenerator.com/wp-content/uploads/2017/05/movi2-1.jpg)](https://vimeo.com/110207736)
 <sub>"**NECLUMI is the first ever projection-based interactive necklace**" ...a probable future
 of jewellery?</sub>
+
 <br>
+
 [![Sharing faces](http://www.creativeapplications.net/wp-content/uploads/2014/08/sharingfaces2.jpg)](http://www.creativeapplications.net/openframeworks/sharing-faces-seeing-yourself-reflected-in-the-image-of-others/)
-<sub>"**Created by Kyle McDonald, “Sharing Faces”**" ... Thousands of people visited the work, and saw themselves reflected in the face of another person.</sub>
+<sub>"**Kyle McDonald, “Sharing Faces”**" ... Thousands of people visited the work, and saw themselves reflected in the face of another person.</sub>
+
 <br>
-[![out-of-body](http://frnkwz.de/images/project_images/faithcondition_01.jpg)]
-(http://frnkwz.de/#project-faithcondition)
+
+[![out-of-body](http://frnkwz.de/images/project_images/faithcondition_01.jpg)](http://frnkwz.de/#project-faithcondition)
 <sub>"**Out-of-body**" ...experience prototype.</sub>
 <br>
 
