@@ -14,26 +14,26 @@ La terza persona sottolinea l'attenzione data al soggetto dell'azione che intera
 ## PAROLE CHIAVE
 oltre a quelle analizzate per il titolo, le parole che introducono il progetto sono:
 
-<sub>tempo
-**fatti** / 
+<sub>tempo / 
+</sub>**fatti**</sub> / 
 cose / 
-**indeterminazione** / 
+</sub>**indeterminazione**</sub> / 
 particelle / 
 corpi / 
 emozioni / 
 tocco / 
 scontro / 
-**proiezione** / 
+</sub>**proiezione**</sub> / 
 conseguenze / 
 sguardi / 
 silenzi / 
 azioni / 
-**comportamento** / 
+</sub>**comportamento**</sub> / 
 durata / 
 effimero / 
 risonanze / 
-**fenomeno** / 
-intreccio / 
+</sub>**fenomeno**</sub> / 
+intreccio
 </sub>
 
 ## CONCEPT
