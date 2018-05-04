@@ -39,11 +39,11 @@ intreccio
 
 ## CONCEPT
 Noi non siamo particelle isolate, ma particelle situate momentaneamente in un luogo e in un tempo precisi, determinate dalle nostre esperienze passate e consapevoli che le nostre azioni si propagano nel futuro. <br>
-*Nessuno si conosce del resto fino a quando è soltanto se stesso, e non, al medesimo tempo, anche un altro. Eugenio Borgna, Responsabilità e speranza.* Noi ci evolviamo ogni volta che ci mettiamo in relazione con il resto del mondo. Infatti come scrive Wittenstein *il mondo è la totalità dei fatti non delle cose*, per cui quando esprimiamo noi stessi attraverso il nostro corpo, modifichiamo noi stessi e chi ci circonda, in un susseguirsi di fatti che cambiano le cose, un prima e un dopo, detto tempo, che si sviluppa e scorre in direzioni determinate. 
-Non possiamo studiare il tempo perchè ne siamo immersi (L'ordine del tempo, C. Rovelli), e proprio per questo non possiamo analizzare noi stessi durante le nostre azioni perchè siamo all'interno del nostro sistema. 
+*Nessuno si conosce del resto fino a quando è soltanto se stesso, e non, al medesimo tempo, anche un altro. Eugenio Borgna, Responsabilità e speranza.* Noi ci evolviamo ogni volta che ci mettiamo in relazione con il resto del mondo. Infatti come scrive Wittgenstein *il mondo è la totalità dei fatti non delle cose*, per cui quando esprimiamo noi stessi attraverso il nostro corpo, modifichiamo noi stessi e chi ci circonda, in un susseguirsi di fatti che cambiano le cose, un prima e un dopo, detto tempo, che si sviluppa e scorre in direzioni determinate. 
+Non possiamo studiare il tempo perché ne siamo immersi (L'ordine del tempo, C. Rovelli), e proprio per questo non possiamo analizzare noi stessi durante le nostre azioni perché siamo all'interno del nostro sistema. 
 
 Solo riflessi nelle reazioni degli altri, nel dialogo senza incomprensioni, possiamo comprendere noi stessi.
-Il contatto con il mondo quindi ci rendere visibili, ma perchè ciò avvenga bisogna prestare attenzione continua.
+Il contatto con il mondo quindi ci rendere visibili, ma perché ciò avvenga bisogna prestare attenzione continua.
 Il progetto si propone come obiettivo quello mettere in luce le modalità con cui ci relazioniamo con il mondo, rendendo visibile i modi con cui siamo abituati a vivere gli altri e i modi con cui ci comportiamo con loro, modi che molto spesso passano inosservati. 
 
 L'attenzione, è la capacità che permette di rispondere per qualcuno, rendendoci responsabili delle nostre azioni. 
@@ -91,18 +91,22 @@ L'elaborazione dei dati deve avvenire in tempo reale. Le grafiche generative son
 
 
 ## PROPOSTA DI OUTPUT
-La collana è l'output fisico del progetto. Le grafiche sono la visualizzazione che permette all'uomo di comprendere i dati rilevati dai sensori.
-La collana deve essere indossabile facilmente, deve essere leggera ma abbastanza grande per permettere una corretta visualizzazione delle grafiche generative.
+La collana è l'output fisico del progetto. Le grafiche sono la visualizzazione che permette all'uomo di comprendere i dati rilevati dai sensori. La collana deve essere indossabile facilmente, deve essere leggera ma abbastanza grande per permettere una corretta visualizzazione delle grafiche generative. La collana è stata scelta come mezzo perché viene indossata e occupa un punto del corpo estremamente fragile e visibile. Inoltre non interferisce con la mimica facciale ne con quella corporale.
 
 
 ## AUTO-CLOSE READING
 #### WHAT'S?
+Una serie di collane che interagiscono tra loro. Ogni collana è dotata di sensori e di un display, dove vengono generate grafiche in tempo reale.
 
 #### HOW IT WORKS?
+Ogni collana possiede dei sensori che rilevano i movimenti, i suoni ecc., effettuati durante una comunicazione che avviene tra due o più persone. I dati raccolti dai sensori vengono utilizzati per generare una grafica in tempo reale per cui ogni azione corrisponde ad un simbolo o alla sua trasformazione.
 
 #### HOW DOES IT MEAN? 
+Prerogativa degli esseri umani è relazionarsi. Essere soggetti a relazioni. Come le più piccole particelle che sono definibili solo quando interagiscono tra loro, noi ci rendiamo visibili quando agiamo. Agire significa modificare il mondo, utilizzando la propria presenza. Agendo quindi si fa percepire al mondo, se stessi. Essendo questo un comportamento abituale, spesso non ci ne rendiamo conto di tutte le forme in cui si manifesta. Gli esseri umani hanno bisogno di esternare ciò che è nascosto in loro, e il primo modo è emozionarsi, ma pur trasmettendo agli altri le proprie emozioni, queste spesso rimangono nascoste al soggetto. Questo progetto ha lo scopo di mettere in luce le relazioni, principio per cui si vive e far trasparire al soggetto le modalità di approccio che manifesta nelle relazioni con gli altri
 
 #### WHAT IF...
+Se i sensori e i pico proiettori fossero miniaturizzati, basterebbe posizionare un chip vicino alla giugulare, per permettere la proiezione e una maggiore libertà di movimento.
+
 
 ## 2025 ANESTETIZZAZIONE
 Per sensibilizzare le persone immerse in relazioni sempre meno fisiche, il progetto miniaturizzato, migliorato e collegato direttamente al sistema nervoso centrale permette di relazionarsi con gli altri attingendo al sapere e agli istinti anestetizzati che servono per creare una comunicazione efficace che trasmetta senza incomprensioni il messaggio.
