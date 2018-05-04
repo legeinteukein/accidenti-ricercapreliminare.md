@@ -1,5 +1,6 @@
 # RIFULGE
-Il titolo è stato scelto dopo un'attenta analisi dei seguenti termini: brillare, proiettile, decadimenti, impulso, volgere, sfolgorare, brio, coinvolgere, ray, glint, then, sfavillare e **rifulgere**.<br>
+Il titolo è stato scelto dopo un'attenta analisi dei seguenti termini: 
+<sub>brillare, proiettile, decadimenti, impulso, volgere, sfolgorare, brio, coinvolgere, ray, glint, then, sfavillare e </sub> **rifulgere**.<br>
 
 Il verbo rifulgere, dal lat. refulgēre, der. di fulgēre ‘splendere’, col pref. *re-* prima del 1321.<br>
 *emettere scintille, che include l'idea di un movimento di proiezione*<br>
