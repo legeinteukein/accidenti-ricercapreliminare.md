@@ -40,7 +40,7 @@ intreccio
 ## CONCEPT
 Noi non siamo particelle isolate, ma particelle situate momentaneamente in un luogo e in un tempo precisi, determinate dalle nostre esperienze passate e consapevoli che le nostre azioni si propagano nel futuro. <br>
 *Nessuno si conosce del resto fino a quando è soltanto se stesso, e non, al medesimo tempo, anche un altro. Eugenio Borgna, Responsabilità e speranza.* Noi ci evolviamo ogni volta che ci mettiamo in relazione con il resto del mondo. Infatti come scrive Wittenstein *il mondo è la totalità dei fatti non delle cose*, per cui quando esprimiamo noi stessi attraverso il nostro corpo, modifichiamo noi stessi e chi ci circonda, in un susseguirsi di fatti che cambiano le cose, un prima e un dopo, detto tempo, che si sviluppa e scorre in direzioni determinate. 
-Non possiamo studiare il tempo perchè ne siamo immersi (L'rdine del tempo, C. Rovelli), e proprio per questo non possiamo analizzare noi stessi durante le nostre azioni perchè siamo all'interno del nostro sistema. 
+Non possiamo studiare il tempo perchè ne siamo immersi (L'ordine del tempo, C. Rovelli), e proprio per questo non possiamo analizzare noi stessi durante le nostre azioni perchè siamo all'interno del nostro sistema. 
 
 Solo riflessi nelle reazioni degli altri, nel dialogo senza incomprensioni, possiamo comprendere noi stessi.
 Il contatto con il mondo quindi ci rendere visibili, ma perchè ciò avvenga bisogna prestare attenzione continua.
