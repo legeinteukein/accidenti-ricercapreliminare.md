@@ -15,24 +15,24 @@ La terza persona sottolinea l'attenzione data al soggetto dell'azione che intera
 oltre a quelle analizzate per il titolo, le parole che introducono il progetto sono:
 
 <sub>tempo / 
-</sub>**fatti**</sub> / 
+</sub>**fatti**<sub> / 
 cose / 
-</sub>**indeterminazione**</sub> / 
+</sub>**indeterminazione**<sub> / 
 particelle / 
 corpi / 
 emozioni / 
 tocco / 
 scontro / 
-</sub>**proiezione**</sub> / 
+</sub>**proiezione**<sub> / 
 conseguenze / 
 sguardi / 
 silenzi / 
 azioni / 
-</sub>**comportamento**</sub> / 
+</sub>**comportamento**<sub> / 
 durata / 
 effimero / 
 risonanze / 
-</sub>**fenomeno**</sub> / 
+</sub>**fenomeno**<sub> / 
 intreccio
 </sub>
 
