@@ -13,28 +13,28 @@ La terza persona sottolinea l'attenzione data al soggetto dell'azione che intera
 
 ## PAROLE CHIAVE
 oltre a quelle analizzate per il titolo, le parole che introducono il progetto sono:
-```
-<sub>tempo</sub>
-*fatti*
-cose
-*indeterminazione*
-particelle
-corpi
-emozioni
-tocco
-scontro
-*proiezione*
-conseguenze
-sguardi
-silenzi
-azioni
-*comportamento*
-durata
-effimero
-risonanze
-*fenomeno*
-intreccio
-```
+
+<sub>tempo
+**fatti** / 
+cose / 
+**indeterminazione** / 
+particelle / 
+corpi / 
+emozioni / 
+tocco / 
+scontro / 
+**proiezione** / 
+conseguenze / 
+sguardi / 
+silenzi / 
+azioni / 
+**comportamento** / 
+durata / 
+effimero / 
+risonanze / 
+**fenomeno** / 
+intreccio / 
+</sub>
 
 ## CONCEPT
 Noi non siamo particelle isolate, ma particelle situate momentaneamente in un luogo e in un tempo precisi, determinate dalle nostre esperienze passate e consapevoli che le nostre azioni si propagano nel futuro. <br>
