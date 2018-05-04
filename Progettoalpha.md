@@ -92,12 +92,17 @@ L'elaborazione dei dati deve avvenire in tempo reale. Le grafiche generative son
 
 ## PROPOSTA DI OUTPUT
 La collana è l'output fisico del progetto. Le grafiche sono la visualizzazione che permette all'uomo di comprendere i dati rilevati dai sensori.
-La collana deve essere indossabile facilmente, deve essere leggera ma abbastanza grande per permettere una corretta visualizzazione delle grafiche generative. 
+La collana deve essere indossabile facilmente, deve essere leggera ma abbastanza grande per permettere una corretta visualizzazione delle grafiche generative.
 
 
 ## AUTO-CLOSE READING
 #### WHAT'S?
+
 #### HOW IT WORKS?
+
 #### HOW DOES IT MEAN? 
+
 #### WHAT IF...
 
+## 2025 ANESTETIZZAZIONE
+Per sensibilizzare le persone immerse in relazioni sempre meno fisiche, il progetto miniaturizzato, migliorato e collegato direttamente al sistema nervoso centrale permette di relazionarsi con gli altri attingendo al sapere e agli istinti anestetizzati che servono per creare una comunicazione efficace che trasmetta senza incomprensioni il messaggio.
