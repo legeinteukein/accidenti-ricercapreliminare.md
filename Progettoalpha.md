@@ -45,9 +45,10 @@ Non possiamo studiare il tempo perchè ne siamo immersi, e proprio per questo no
 Solo riflessi nelle reazioni degli altri, nel dialogo senza incomprensioni, possiamo comprendere noi stessi.
 Il contatto con il mondo quindi ci rendere visibili, ma perchè ciò avvenga bisogna prestare attenzione continua.
 Il progetto si propone come obiettivo quello mettere in luce le modalità con cui ci relazioniamo con il mondo, rendendo visibile i modi con cui siamo abituati a vivere gli altri e i modi con cui ci comportiamo con loro, modi che molto spesso passano inosservati. 
-L'attenzione, è la capacità che permette di rispondere per qualcuno, è rendereci responsabili delle nostre azioni. 
 
-
+L'attenzione, è la capacità che permette di rispondere per qualcuno, rendendoci responsabili delle nostre azioni. 
+L'attenzione, indirizzata agli altri e attraverso gli altri a noi stessi, individua i bisogni di sensazioni, di riconoscimento e di strutturazione che si manifestano non appena si interagisce con persone estranee o conosciute. 
+Per facilitare l'attenzione, che dovrebbe essere un'azione senza sforzo, e per rende consapevoli gli interlocutori dei loro comportamenti mentre questi stanno avvenendo si è pensato di creare un oggetto in grado di proiettare nel corpo dell'interlocutore ciò che sta facendo il soggetto. Si stabilisce quindi un dizionario di simboli che caratterizza determinati movimenti e suoni che vengono palesati al soggetto, aiutandolo a percepirsi e a  
 
 
 
@@ -68,6 +69,7 @@ of jewellery?</sub>
 <br>
 
 ## DATI
+
 #### Sensori
 Giroscopio / 
 Accelerometro / 
@@ -80,6 +82,10 @@ Color TFT LCD display
 ## ELABORAZIONE
 ## TRASFORMAZIONE
 ## PROPOSTA DI OUTPUT
+
+il senso è mi vedo attraverso gli altri
+il mio corpo è reso visibile dai miei movimenti proiettati nel corpo dell'altro
+
 ## AUTO-CLOSE READING
 #### WHAT'S?
 #### HOW IT WORKS?
