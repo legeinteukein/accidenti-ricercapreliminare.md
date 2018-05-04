@@ -48,7 +48,8 @@ Il progetto si propone come obiettivo quello mettere in luce le modalità con cu
 
 L'attenzione, è la capacità che permette di rispondere per qualcuno, rendendoci responsabili delle nostre azioni. 
 L'attenzione, indirizzata agli altri e attraverso gli altri a noi stessi, individua i bisogni di sensazioni, di riconoscimento e di strutturazione che si manifestano non appena si interagisce con persone estranee o conosciute. 
-Per facilitare l'attenzione, che dovrebbe essere un'azione senza sforzo, e per rende consapevoli gli interlocutori dei loro comportamenti mentre questi stanno avvenendo si è pensato di creare un oggetto in grado di proiettare nel corpo dell'interlocutore ciò che sta facendo il soggetto. Si stabilisce quindi un dizionario di simboli che caratterizza determinati movimenti e suoni che vengono palesati al soggetto, aiutandolo a percepirsi e a  
+Per facilitare l'attenzione, che dovrebbe essere un'azione senza sforzo, e per rende consapevoli gli interlocutori dei loro comportamenti mentre questi stanno avvenendo si è pensato di creare un oggetto in grado di proiettare nel corpo dell'interlocutore ciò che sta facendo il soggetto. Si stabilisce quindi un dizionario di simboli che caratterizza determinati movimenti e suoni che vengono palesati al soggetto, da questo leggibili istantaneamente e elaborati attraverso un sentire che è più profondo di percepire (La voce del corpo, A. Lowen). Si acquisisce un'autocoscienza attraverso l'interpretazione delle emozioni (e-movere - muovere fuori) fatte emergere da se stessi e sintetizzata dai simboli visibili attraverso l'altro.
+
 
 
 
