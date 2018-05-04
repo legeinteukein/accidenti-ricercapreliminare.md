@@ -53,8 +53,8 @@ L'attenzione, è la capacità che permette di rispondere per qualcuno, è render
 ## REFERENZE
 [![NECLUMI](http://pangenerator.com/wp-content/uploads/2017/05/movi2-1.jpg)](https://vimeo.com/110207736)
 
-<sub>"**NECLUMI is the first ever projection-based interactive necklace**" (a probable future
-of jewellery ?)</sub>
+<sub>"**NECLUMI is the first ever projection-based interactive necklace**" ...a probable future
+of jewellery?</sub>
 
 
 ## DATI
