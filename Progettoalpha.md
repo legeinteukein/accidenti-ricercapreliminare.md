@@ -91,7 +91,9 @@ Color TFT LCD display
 ## TRASFERIMENTO DATI
 Per il trasferimento dei dati da una collana ad un'altra si sono testati vari moduli arduino. 
 
-HC-05 Bluetooth Modules
+Trasmettitori e Ricevitori wireless 315-433Mhz, sono risultati poco stabili, bisognava usare due coppie per poter intersambiare i dati tra i due arduini. 
+
+HC-05 Bluetooth Modules, 
 
 ## ELABORAZIONE e TRASFORMAZIONE
 L'elaborazione dei dati deve avvenire in tempo reale. Le grafiche generative sono create a partire da un dizionario di simboli che permettono una comprensione immediata del loro significato. Alcuni esempi sono illustrati nell'immagine sotto riportata.
